@@ -1,0 +1,2 @@
+rootProject.name='OnVioletMobile'
+include ':app'
